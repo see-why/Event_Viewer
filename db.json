@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+    "id": 1,
+    "city": "Texas",
+    "artiste": "Bob Sheldon",
+    "price": 100
+    },
+    {
+      "id": 2,
+      "city": "Portland",
+      "artiste": "The Chainsmokers",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "city": "Seattle",
+      "artiste": "Coldplay",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "city": "Denver",
+      "artiste": "The Script",
+      "price": 400
+    },
+    {
+      "id": 5,
+      "city": "Mishigan",
+      "artiste": "Usher",
+      "price": 500
+    },
+    {
+      "id": 6,
+      "city": "Detroit",
+      "artiste": "U2",
+      "price": 600
+    }
+  ]
+}
