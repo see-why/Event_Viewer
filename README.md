@@ -8,10 +8,6 @@ This project was bootstrapped with Create React App.
 - JSX
 - Redux
 
-## Live Demo
-
-- [Live Demo Link]( https://finalspacehub.netlify.app)
-
 ## Getting Started
 
 - **To get a local copy of the repository please run the following commands on your terminal:**
